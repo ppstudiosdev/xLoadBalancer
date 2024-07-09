@@ -1,0 +1,1 @@
+{"id":"xloadbalancer","name":"xLoadBalancer","version":"v0.0.1-RC01","description":"A simple load balancer for Velocity proxy","authors":["PixelPlayer Studios"],"dependencies":[],"main":"de.pixelplayer_studios.xloadbalancer.xLoadBalancer"}
